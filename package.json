@@ -1,0 +1,23 @@
+{
+  "name": "snedit-portable",
+  "version": "1.0.0",
+  "description": "A \"desktop\" client for SNEdit.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeleKiwi/snedit-portable.git"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeleKiwi/snedit-portable/issues"
+  },
+  "homepage": "https://github.com/TeleKiwi/snedit-portable#readme",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
+}
