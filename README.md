@@ -20,10 +20,10 @@ Node >= 19
 Git
 
 ### Installing
-git clone https://github.com/TeleKiwi/snedit-portable
+`git clone https://github.com/TeleKiwi/snedit-portable`
 
-cd snedit-portable
+`cd snedit-portable`
 
-npm i
+`npm i`
 
-npm start
+`npm start`
